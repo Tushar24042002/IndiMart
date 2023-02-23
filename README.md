@@ -11,7 +11,7 @@ Indimart Private Limited, is an Indian instant delivery service. It was founded 
 
 **Create From React js, Redux And Use React-Router-Dom** 
 
-**Link Of Website is https://www.studybuddy.store**
+**Link Of Website is https://indimart.netlify.app**
 
 **Used Tools -**
 
