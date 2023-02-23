@@ -9,13 +9,23 @@
 # Introduction
 Indimart Private Limited, is an Indian instant delivery service. It was founded in January 2023 and is based out of Delhi. Customers of the company use a mobile application to order groceries and essentials online.
 
-** Create From React js, Redux And Use React-Router-Dom **
+**Create From React js, Redux And Use React-Router-Dom** 
 
-Link Of Website is https://www.studybuddy.store
+**Link Of Website is https://www.studybuddy.store**
 
-Used Tools - React Js, Jsx, HTML, Css, Scss, Javascript, React-router-dom, React-Dom, React-Bootstrap, React-scss, React-Pdf, React-share-social, React-slick, React-pagination, React-Carousel, React-Modal
+**Used Tools **
 
-Setup
-npm-run-dev For Start This Project On your Localhost Server npm-run-build For Deploy This Project On Free https Servers
+React Js, Redux, Jsx, HTML, Css, Scss, Javascript, React-router-dom, React-Dom, React-Bootstrap, React-scss, React-share-social, React-slick, React-pagination, React-Carousel, React-Modal.
 
-Thank You
+**Login Funcationality**
+**Use Of AUTH0** real time login, signup, logout and redirect by Google.
+
+
+# Setup
+
+**npm-run-dev** For Start This Project On your Localhost Server
+
+**npm-run-build** For Deploy This Project On Free https Servers
+
+**Thank You
+**
