@@ -13,7 +13,7 @@ Indimart Private Limited, is an Indian instant delivery service. It was founded 
 
 **Link Of Website is https://www.studybuddy.store**
 
-**Used Tools **
+**Used Tools**
 
 React Js, Redux, Jsx, HTML, Css, Scss, Javascript, React-router-dom, React-Dom, React-Bootstrap, React-scss, React-share-social, React-slick, React-pagination, React-Carousel, React-Modal.
 
@@ -27,5 +27,4 @@ React Js, Redux, Jsx, HTML, Css, Scss, Javascript, React-router-dom, React-Dom, 
 
 **npm-run-build** For Deploy This Project On Free https Servers
 
-**Thank You
-**
+**Thank You**
