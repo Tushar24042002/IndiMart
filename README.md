@@ -6,10 +6,10 @@
 
 
 
-Introduction
+# Introduction
 Indimart Private Limited, is an Indian instant delivery service. It was founded in January 2023 and is based out of Delhi. Customers of the company use a mobile application to order groceries and essentials online.
 
-Create From React js, Redux And Use React-Router-Dom
+** Create From React js, Redux And Use React-Router-Dom **
 
 Link Of Website is https://www.studybuddy.store
 
